@@ -1,6 +1,5 @@
 # tresta
 
-Application of Natural Language Processing for analytics and marketing purpose.
+Application of Reinforcement Learning for optimizing business operations and related to Operational Research Problems.
 
-This repo contains following contents:
 
