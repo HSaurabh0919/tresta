@@ -1,5 +1,7 @@
-# tresta
+# [tresta](https://github.com/CCsaurabh/tresta/)
 
-Application of Reinforcement Learning for optimizing business operations and related to Operational Research Problems.
+Building datasets lies at the core intersection of all the research.
+
+In this repo I plan to find and arranged datasets 🏁
 
 
