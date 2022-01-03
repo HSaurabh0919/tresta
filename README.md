@@ -1,4 +1,4 @@
-# [tresta](https://github.com/CCsaurabh/tresta/)
+# [Tresta](https://github.com/CCsaurabh/tresta/)
 
 Building datasets lies at the core intersection of all the research.
 
