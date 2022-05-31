@@ -8,6 +8,25 @@ Building beautiful RL products, related to supply chain, gaming, Economics and F
 
 😊😊😊😊
 
+### Plots
+1. Comparison of effect of epsilon-decay approach on DDQN implementation for Cartpole environment.
+
+- 1.1. Linear Epsilon Decay
+
+![Linear Epsilon Decay](https://github.com/HSaurabh0919/tresta/blob/main/plots/linear_decay.png)
+
+- 1.2. Exponential Epsilon Decay
+
+![Exponential Epsilon Decay](https://github.com/HSaurabh0919/tresta/blob/main/plots/exponential_decay.png)
+
+- 1.3. Exponential-Squared Epsilon Decay
+
+![Exponential Squared Epsilon Decay](https://github.com/HSaurabh0919/tresta/blob/main/plots/exponential_squared_decay.png)
+
+- 1.4. All epslion values
+
+![ Decay](https://github.com/HSaurabh0919/tresta/blob/main/plots/epsilon_curves.png)
+
 ### REFERENCES: 
 1. Cartpole custom A2C Implementation has been adapted from [here](https://github.com/higgsfield/RL-Adventure-2/blob/master/1.actor-critic.ipynb).
 2. DDQN custom Implementation has been majorly inspired from [here](https://github.com/higgsfield/RL-Adventure/blob/master/2.double%20dqn.ipynb).
